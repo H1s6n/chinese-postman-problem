@@ -1,11 +1,4 @@
-# Chinese Postman Problem — KAU Coursework
-
-Python coursework for **CS-611: Design & Analysis of Algorithms**, King Abdulaziz University, Faculty of Computing & Information Technology.
-
-**Project team:** Fahad Farooq Jamie and Hassan Alharbi.  
-**Supervisor:** Dr. Khalid Thabit.
-
-The original presentation lists Hassan under his earlier name, Hassan M Aloufi. This portfolio uses his current preferred name. Individual coding responsibilities have not been established from the supplied files.
+# Chinese Postman Problem 
 
 ## Purpose
 
